@@ -8,7 +8,7 @@ Please read the User Guide and supporting documentation for information on how t
 
 The Seabed Landform Classification Toolset is also available for download on the NSW Government SEED environmental data portal: https://datasets.seed.nsw.gov.au/dataset/seabed-landforms-classification-toolset
 
-The toolset was developed by the Coastal and Marine Team, NSW Department of Planning and Environment, funded by NSW Climate Change Fund through the Coastal Management Funding Package and the Marine Estate Management Authority.
+The toolset was developed by the Coastal and Marine Team, New South Wales Department of Planning and Environment, Australia. Funding was provided by New South Wales Climate Change Fund through the Coastal Management Funding Package and the Marine Estate Management Authority.
 
 Please cite this toolset as:
 Linklater, M, Morris, B.D. and Hanslow, D.J. (2023) Classification of seabed landforms on continental and island shelves. Frontiers of Marine Science, 10, https://doi.org/10.3389/fmars.2023.1258556.
