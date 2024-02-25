@@ -8,7 +8,7 @@ Please read the User Guide and supporting documentation for information on how t
 
 The Seabed Landform Classification Toolset is also available for download on the NSW Government SEED environmental data portal: https://datasets.seed.nsw.gov.au/dataset/seabed-landforms-classification-toolset
 
-The toolset was developed by the Coastal and Marine Team, New South Wales Department of Planning and Environment, Australia. Funding was provided by New South Wales Climate Change Fund through the Coastal Management Funding Package and the Marine Estate Management Authority.
+The toolset was developed by the Coastal and Marine Team, New South Wales Department of Climate Change, Energy, the Environment and Water, Australia. Funding was provided by New South Wales Climate Change Fund through the Coastal Management Funding Package and the Marine Estate Management Authority.
 
 Please cite this toolset as:
 Linklater, M, Morris, B.D. and Hanslow, D.J. (2023) Classification of seabed landforms on continental and island shelves. Frontiers of Marine Science, 10, https://doi.org/10.3389/fmars.2023.1258556.
@@ -16,3 +16,7 @@ Linklater, M, Morris, B.D. and Hanslow, D.J. (2023) Classification of seabed lan
 Other toolsets utilised by the Seabed Landform Classification Toolset include:
 Benthic Terrain Modeler: Walbridge, S., Slocum, N., Pobuda, M., and Wright, D. J. (2018). Unified geomorphological analysis workflows with Benthic Terrain Modeler. Geosciences 8, 94.
 Geomorphometry and Gradients Metrics Toolbox: Evans, J., Oakleaf, J., and Cushman, S. (2014). An ArcGIS Toolbox for Surface Gradient and Geomorphometric Modeling, Version 2.0-0. https://github.com/jeffreyevans/GradientMetrics.
+
+Update 25/11/2023 - Added citation of Linklater et al.(2023) to documentation
+Update 25/02/2024 - Updated "PrelimLandforms.lyr" symbology file. Colour scheme was previously applied to the "LAND_2" field. New update applies colour scheme to "Prelim_Land" field as this is the correct field for editing. 
+		  - Updated NSW Government department name from "NSW Department of Planning and Environment" to "NSW Department of Climate Change, Energy, the Environment and Water" to reflect department changes.
